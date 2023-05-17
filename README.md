@@ -25,7 +25,8 @@ I will edit this file to practice md.
 Here is some **bold** text and *italicized* text, and now **both *bold and italic*** text.
 The following
 > line of text
-is a blockqoute. And some C code:
+
+is a blockquote. And some C code:
 `printf("Hi markdown!");`
 
 <details id=0>
