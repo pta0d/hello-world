@@ -18,6 +18,17 @@ _Get started using GitHub in less than an hour._
   Do not use quotes on the <details> tag attributes.
 -->
 
+I will edit this file to practice md.
+# First header
+## Second header
+### And a third one
+Here is some **bold** text and *italicized* text, and now **both *bold and italic*** text.
+The following
+> line of text
+
+is a blockquote. And some C code:
+`printf("Hi markdown!");`
+
 <details id=0>
 <summary><h2>Welcome</h2></summary>
 
