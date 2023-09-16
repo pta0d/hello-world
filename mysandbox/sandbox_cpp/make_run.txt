@@ -1,0 +1,1 @@
+g++ -o test_0 test_0.cpp; ./test_0
