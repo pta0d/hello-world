@@ -23,8 +23,10 @@ void fun() {
 }
 ```
 
-A _detils_ HTML tag:
+A _details_ HTML tag:
 <details>
   <summary>Open ↔️ me</summary>
-  And then close me.
+  <div style="border-left: 2px solid #ffd0a0;">
+    And then close me.
+  </div>
 </details>
