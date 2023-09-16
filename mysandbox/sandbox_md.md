@@ -1,4 +1,4 @@
-# This is my new *Markdown* sandbox
+# This is my *Markdown* sandbox
 Initial doc to copy to.
 
 ---------
@@ -16,8 +16,15 @@ is a blockquote. And some C code:
 
 ---------
 
+Some C code block:
 ```c
 void fun() {
   printf("Hi C again!");
 }
 ```
+
+A _detils_ HTML tag:
+<details>
+  <summary>Open :: me</summary>
+  And then close me.
+</details>
