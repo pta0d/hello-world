@@ -25,6 +25,6 @@ void fun() {
 
 A _detils_ HTML tag:
 <details>
-  <summary>Open :: me</summary>
+  <summary>Open ↔️ me</summary>
   And then close me.
 </details>
