@@ -9,6 +9,7 @@ I will edit this file to practice md.
 ### And a third one
 Here is some **bold** text and *italicized* text, and now **both *bold and italic*** text.
 The following
+
 > line of text
 
 is a blockquote. And some C code:
@@ -22,6 +23,7 @@ void fun() {
   printf("Hi C again!");
 }
 ```
+I can C a simple example, you see?
 
 A _details_ HTML tag:
 <details>
