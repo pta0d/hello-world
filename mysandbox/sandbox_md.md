@@ -40,10 +40,16 @@ This should be the newline.
 
 Also in a list.
 - This is 1st level.
-- - Second level.
-Now for starting with 2nd.
- - Second maybe?
- - - Or even 3rd.
+  - Second level.
+
+Now trying to start with 2nd.
+
+- Second maybe?\
+  Also on same bullet.
+  - Or even 3rd.\
+    Again on same other bullet.
+
+Nope.
 
 ## Math & diagrams
 Trying some math.
