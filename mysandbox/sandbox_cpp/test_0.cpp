@@ -7,6 +7,8 @@ int main() {
   scanf("%d %d", &a, &b);
   s = a + b;
   printf("Sum a + b = %d\n", s);
+  
+  printf("This i local.\n");
 
   //getch();
   return 0;
